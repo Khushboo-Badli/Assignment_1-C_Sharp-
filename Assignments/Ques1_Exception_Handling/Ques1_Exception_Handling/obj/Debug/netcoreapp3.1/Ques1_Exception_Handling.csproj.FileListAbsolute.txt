@@ -1,0 +1,13 @@
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\bin\Debug\netcoreapp3.1\Ques1_Exception_Handling.exe
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\bin\Debug\netcoreapp3.1\Ques1_Exception_Handling.deps.json
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\bin\Debug\netcoreapp3.1\Ques1_Exception_Handling.runtimeconfig.json
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\bin\Debug\netcoreapp3.1\Ques1_Exception_Handling.runtimeconfig.dev.json
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\bin\Debug\netcoreapp3.1\Ques1_Exception_Handling.dll
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\bin\Debug\netcoreapp3.1\Ques1_Exception_Handling.pdb
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\obj\Debug\netcoreapp3.1\Ques1_Exception_Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\obj\Debug\netcoreapp3.1\Ques1_Exception_Handling.AssemblyInfoInputs.cache
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\obj\Debug\netcoreapp3.1\Ques1_Exception_Handling.AssemblyInfo.cs
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\obj\Debug\netcoreapp3.1\Ques1_Exception_Handling.csproj.CoreCompileInputs.cache
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\obj\Debug\netcoreapp3.1\Ques1_Exception_Handling.dll
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\obj\Debug\netcoreapp3.1\Ques1_Exception_Handling.pdb
+C:\Users\Khushboo Badil\source\repos\Ques1_Exception_Handling\Ques1_Exception_Handling\obj\Debug\netcoreapp3.1\Ques1_Exception_Handling.genruntimeconfig.cache
