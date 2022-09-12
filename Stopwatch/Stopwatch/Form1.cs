@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Speech.Synthesis;
+using System.Speech.Recognition;
 
 namespace Stopwatch
 {
@@ -31,24 +33,36 @@ namespace Stopwatch
         private void Form1_Load(object sender, EventArgs e)
         {
             ResetTimer();
+            this.progressBar1.Value = 0;
+
         }
 
         private void Start_Click(object sender, EventArgs e)
         {
-            isActive = true;
             this.timer2.Start();
+            
+            SpeechSynthesizer s = new SpeechSynthesizer();
+            s.Speak("Stopwatch has Started ");
+            isActive = true;
         }
 
         private void Stop_Click(object sender, EventArgs e)
         {
             isActive = false;
             this.timer2.Stop();
+            SpeechSynthesizer s = new SpeechSynthesizer();
+            s.Speak("Stopwatch has Stopped ");
         }
 
         private void Reset_Click(object sender, EventArgs e)
         {
             isActive = false;
             ResetTimer();
+            this.progressBar1.Value = 0;
+
+            SpeechSynthesizer s = new SpeechSynthesizer();
+            s.Speak("Stopwatch has Reseted ");
+
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -77,9 +91,15 @@ namespace Stopwatch
 
         }
 
+
         private void timer2_Tick(object sender, EventArgs e)
         {
             this.progressBar1.Increment(1);
+
+            
         }
+
+       private void progressBar1_Click(object sender, EventArgs e) { }
+        
     }
 }

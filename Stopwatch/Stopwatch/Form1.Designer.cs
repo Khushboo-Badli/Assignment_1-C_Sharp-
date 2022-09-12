@@ -134,10 +134,11 @@ namespace Stopwatch
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(159, 198);
+            this.progressBar1.Location = new System.Drawing.Point(136, 196);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(321, 15);
+            this.progressBar1.Size = new System.Drawing.Size(348, 15);
             this.progressBar1.TabIndex = 8;
+            this.progressBar1.Click += new System.EventHandler(this.progressBar1_Click);
             // 
             // timer2
             // 
